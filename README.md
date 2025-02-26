@@ -63,9 +63,9 @@ This project was inspired by the desire to create an interactive tool for HR pro
 
 ## :mailbox: Contact
 
-Have questions or feedback? Feel free to reach out via [aman07porwal@gmail.com](mailto:aman07porwal@gmail.com).
+Have questions or feedback? Feel free to reach out via [asma.laaribi@outlook.com].
 
 ##
-Developed with :heart: by Aman Porwal
+Developed with :heart: by Asma Laaribi
 
 
